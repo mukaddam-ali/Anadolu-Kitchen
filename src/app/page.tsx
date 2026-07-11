@@ -332,7 +332,7 @@ export default function RestaurantWebsite() {
 
   return (
     <div className="min-h-screen bg-white">
-      <style jsx>{`
+      <style>{`
         @keyframes fadeInUp {
           from {
             opacity: 0;
